@@ -73,9 +73,6 @@ Here are some screenshots of the project in action:
 
 ## 🚀 Demo
 
-| Screenshot 1 | Screenshot 2 | Screenshot 3 |
-|--------------|--------------|--------------|
 | ![Clubs](./demo/clubs.PNG) | ![Find Clubs](./demo/findclubs.PNG) | ![Login](./demo/login.PNG) |
-| Screenshot 4 | Screenshot 5 |
-|--------------|--------------|
+
 | ![Signup](./demo/signup.PNG) | ![Users](./demo/users.PNG) |
