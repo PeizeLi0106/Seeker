@@ -71,8 +71,8 @@ You can use any preferred DB explorer or you can install SQLite, which is a reco
 
 Here are some screenshots of the project in action:
 
-![Screenshot 1](./demo/clubs.png)
-![Screenshot 2](./demo/findClubs.png)
-![Screenshot 2](./demo/login.png)
-![Screenshot 2](./demo/signup.png)
-![Screenshot 2](./demo/users.png)
+![Screenshot 1](./demo/clubs.PNG)
+![Screenshot 2](./demo/findclubs.PNG)
+![Screenshot 3](./demo/login.PNG)
+![Screenshot 4](./demo/signup.PNG)
+![Screenshot 5](./demo/users.PNG)
