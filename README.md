@@ -66,3 +66,13 @@ npm start
 3. To view database :
 
 You can use any preferred DB explorer or you can install SQLite, which is a recommended explorer in extensions of VSCode
+
+## 🚀 Demo
+
+Here are some screenshots of the project in action:
+
+![Screenshot 1](./demo/clubs.png)
+![Screenshot 2](./demo/findClubs.png)
+![Screenshot 2](./demo/login.png)
+![Screenshot 2](./demo/signup.png)
+![Screenshot 2](./demo/users.png)
