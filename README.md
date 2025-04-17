@@ -71,8 +71,11 @@ You can use any preferred DB explorer or you can install SQLite, which is a reco
 
 Here are some screenshots of the project in action:
 
-![Screenshot 1](./demo/clubs.PNG)
-![Screenshot 2](./demo/findclubs.PNG)
-![Screenshot 3](./demo/login.PNG)
-![Screenshot 4](./demo/signup.PNG)
-![Screenshot 5](./demo/users.PNG)
+## 🚀 Demo
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|--------------|--------------|--------------|
+| ![Clubs](./demo/clubs.PNG) | ![Find Clubs](./demo/findclubs.PNG) | ![Login](./demo/login.PNG) |
+| Screenshot 4 | Screenshot 5 |
+|--------------|--------------|
+| ![Signup](./demo/signup.PNG) | ![Users](./demo/users.PNG) |
